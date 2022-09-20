@@ -108,7 +108,9 @@ small{
 .sotto{
     margin-left: 10%;
 }
-
+.container{
+    text-align: center;
+}
 /* FOOTER */
 .footer-top{
     padding: 10px 0 30px 0;
